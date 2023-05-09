@@ -1,0 +1,2 @@
+﻿  main.c
+C:\Users\cindy\source\repos\Final\Final\main.c(7,10): fatal  error C1083: Cannot open include file: 'curl/curl.h': No such file or directory
